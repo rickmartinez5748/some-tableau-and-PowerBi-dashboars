@@ -1,1 +1,6 @@
-This repository contains a selection of interactive dashboards created using Tableau and Power BI. These visualizations showcase insights derived from various datasets, applying data storytelling techniques.
+Tableau and Power BI Projects
+Created interactive dashboards using Tableau to explore global trends in economics and demographics.
+
+GDP Analysis Dashboard: Investigated GDP trends over time across countries to highlight patterns in economic development.
+
+Population Growth Dashboard: Analyzed global population changes, identifying regions with the highest growth and linking these trends to key socioeconomic indicators.
